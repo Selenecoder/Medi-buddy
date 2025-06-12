@@ -1,27 +1,30 @@
-# Medi-buddy
+# 🏥 MediBuddy
 
-**MediBuddy** is a web-based healthcare platform that allows users to book appointments, consult doctors, and manage their medical records online. Built with a clean UI using Bootstrap, it also features secure authentication via Google Sign-In and stores data in a MySQL database.
+**MediBuddy** is a web-based healthcare platform that allows users to book appointments, consult doctors, and manage their medical records. It features a responsive Bootstrap frontend, a PHP backend for server-side logic, Google Sign-In for authentication, and MySQL for data storage.
 
 ---
 
 ## 🌟 Features
 
-- 🏠 Home page with easy navigation
-- 👩‍⚕️ Doctor profiles and listings
-- 📅 Appointment booking system
-- 🔐 Google Sign-In authentication
+- 🏠 Home page with smooth navigation
+- 👨‍⚕️ Browse and search doctor profiles
+- 📅 Book and manage appointments
+- 🔐 Google Sign-In for authentication
+- 🗃️ PHP backend for API and form handling
 - 💾 MySQL database integration
-- 📱 Responsive design using Bootstrap
+- 📱 Mobile-friendly UI with Bootstrap
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer        | Technology      |
+| Layer        | Technology           |
+|--------------|----------------------|
 | Frontend     | HTML, CSS, JavaScript, Bootstrap |
-| Auth         | Google Sign-In (OAuth) |
-| Database     | MySQL |
-| Tools        | VS Code, Git, Browser Developer Tools |
+| Backend      | PHP (Vanilla)        |
+| Auth         | Google Sign-In (OAuth 2.0) |
+| Database     | MySQL                |
+| Tools        | VS Code, phpMyAdmin, Git |
 
 ---
 
